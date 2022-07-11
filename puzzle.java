@@ -40,7 +40,7 @@ b9.addActionListener(this);
 next.addActionListener(this);
 
 next.setBackground(Color.black);
-next.setForeground(Color.green);
+next.setForeground(Color.red);
 setSize(250,300);
 setLayout(null);
 setVisible(true);
