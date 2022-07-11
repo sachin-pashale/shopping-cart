@@ -6,7 +6,7 @@ JButton b1,b2,b3,b4,b5,b6,b7,b8,b9,next;
 puzzle(){
 super("puzzle game");
  b1=new JButton("1");
- b2=new JButton(" ");
+ b2=new JButton("22");
  b3=new JButton("3");
  b4=new JButton("4");
  b5=new JButton("5");
