@@ -122,7 +122,7 @@ String s=b9.getLabel();
 if(b6.getLabel().equals(" ")){ b6.setLabel(s); b9.setLabel(" ");}
 else if(b8.getLabel().equals(" ")){ b8.setLabel(s); b9.setLabel(" ");}
 if(b1.getLabel().equals("1")&&b2.getLabel().equals("2")&&b3.getLabel().equals("3")&&b4.getLabel().equals("4")&&b5.getLabel().equals("5")&&b6.getLabel().equals("6")&&b7.getLabel().equals("7")&&b8.getLabel().equals("8")&&b9.getLabel().equals(" ")){ 
-JOptionPane.showMessageDialog(puzzle.this,"!!!you won 123!!!");
+JOptionPane.showMessageDialog(puzzle.this,"!!!you won 12345!!!");
 }
  }//end of if
 
