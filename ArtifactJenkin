@@ -1,0 +1,12 @@
+node {
+    
+    stage('for clone java repo') {
+    // some block
+    git branch: 'main', url: 'https://github.com/sachin-pashale/shopping-cart.git'
+    }
+    
+    stage('execute mavan target') {
+    // some block
+    sh 'mvn install'
+    }
+}
